@@ -1,0 +1,11 @@
+flask
+flask-cors
+python-dotenv
+langchain
+langchain-community
+chromadb
+sentence-transformers
+pypdf
+groq
+werkzeug
+fpdf
